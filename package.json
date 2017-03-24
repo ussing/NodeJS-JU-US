@@ -19,7 +19,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization.git"
+        "url": "https://github.com/ussing/NodeJS-JU-US.git"
     },
     "engines": {
         "node": "4.x"
